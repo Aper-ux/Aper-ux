@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aper-ux
 - 👀 I’m interested in music
-- 🌱 I’m currently learning vue. node js, ...
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on frontend
 - 📫 How to reach me alex.quiroga.perez@gmail.com
 
